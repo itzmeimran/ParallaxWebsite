@@ -59,28 +59,28 @@ section h1{
     height:100%;
 }
 .bg1{
-    background-image: url('/shimla.jpg');
+    background-image: url('shimla.jpg');
     
 }
 .bg2{
-    background-image: url('/manali.jpg');
+    background-image: url('manali.jpg');
    
 }
 .bg3{
-    background-image: url('/ooty.jpg');
+    background-image: url('ooty.jpg');
     
 }
 
 .bg4{
-    background-image: url('/goa.jpg');
+    background-image: url('goa.jpg');
     
 }
 .bg5{
-    background-image: url('/kerala.jpg');
+    background-image: url('kerala.jpg');
     
 }
 .bg6{
-    background-image: url('/tajmahal.jpg');
+    background-image: url('tajmahal.jpg');
     
 }
 
